@@ -1,0 +1,26 @@
+{
+  "name": "tensorflow-js",
+  "version": "1.0.0",
+  "description": "ml fragments",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiddler/tensorflow-js.git"
+  },
+  "keywords": [
+    "ml",
+    "machine",
+    "learning"
+  ],
+  "author": "eliot easterling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quiddler/tensorflow-js/issues"
+  },
+  "homepage": "https://github.com/quiddler/tensorflow-js#readme"
+}
