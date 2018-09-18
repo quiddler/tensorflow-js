@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "ml fragments",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.17"
+  },
   "devDependencies": {},
   "scripts": {
     "test": "test"
